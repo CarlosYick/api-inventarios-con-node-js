@@ -1,7 +1,7 @@
 ## Tecnologías Usadas
 
 ![Node.js](https://nodejs.org/static/images/logo.svg)
-![MongoDB Atlas](https://www.mongodb.com/assets/images/global/leaf.svg)
+![MongoDB Atlas](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png)
 
 Este proyecto utiliza las siguientes tecnologías:
 - **Node.js**: Un entorno de ejecución para JavaScript.
